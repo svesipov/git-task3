@@ -1,0 +1,2 @@
+File task3_new.txt Line 1
+File task3_new.txt Line 2
