@@ -1,4 +1,0 @@
-File task3.txt Line 1
-File task3.txt Line 2
-File task3.txt Line 3
-File task3.txt Line 4
